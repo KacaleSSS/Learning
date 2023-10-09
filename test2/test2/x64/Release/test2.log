@@ -1,0 +1,8 @@
+﻿  test2.c
+E:\C语言学习\test2\test2\test2.c(7,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C语言学习\test2\test2\test2.c(7,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test2.vcxproj -> E:\C语言学习\test2\x64\Release\test2.exe
